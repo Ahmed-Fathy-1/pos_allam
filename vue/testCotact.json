@@ -1,0 +1,28 @@
+{
+  "mails": [
+    {
+      "name": "ibrahim",
+      "email": "ibrahim@m",
+      "subject": "Req",
+      "phone": "01472566",
+      "message": "can you help me",
+      "id": "a561"
+    },
+    {
+      "id": "cc7e",
+      "name": "ssssss",
+      "email": "ssssssss@e",
+      "subject": "fffff",
+      "phone": "fffffff",
+      "message": "fffffff"
+    },
+    {
+      "id": "85fd",
+      "name": "x",
+      "email": "x@c",
+      "subject": "x",
+      "phone": "x",
+      "message": "x"
+    }
+  ]
+}

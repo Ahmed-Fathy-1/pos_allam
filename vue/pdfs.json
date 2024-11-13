@@ -1,0 +1,7 @@
+{
+    "pdfs": [
+        { "name": "Document 1", "url": "https://example.com/document1.pdf", "image": "/images/pdf.png" },
+        { "name": "Document 2", "url": "https://example.com/document2.pdf", "image": "/images/pdf.png" },
+        { "name": "Document 3", "url": "https://example.com/document3.pdf", "image": "/images/pdf.png" }
+    ]
+}

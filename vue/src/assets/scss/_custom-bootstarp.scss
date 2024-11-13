@@ -1,0 +1,23 @@
+// src/custom.scss
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "../../../node_modules/bootstrap/scss/variables";
+
+// Override Bootstrap variables if needed
+$theme-colors: (
+  "primary": #ff9f43,
+  "info": #f2f5f8,
+  "yellow": #faba26,
+  "secondary": #797979,
+  "dark-gray": #444,
+  "secondary-light": #efecff,
+  "light": #f9f9f9,
+  "dark": #242331,
+  "success": #198754,
+  "warning": #ffc107,
+  "danger": #dc3545,
+  "custom": #d49503,
+  "orange": #f2811c,
+  "footer": #0e1133,
+);
+
+@import "../../../node_modules/bootstrap/scss/bootstrap";

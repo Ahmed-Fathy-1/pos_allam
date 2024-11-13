@@ -1,0 +1,29 @@
+{
+    "sections":[
+        {
+            "title":"What is Sass cashier",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit dolores sit ullam a quam tenetur, atque reiciendis labore pariatur suscipit, ab eos quos, sed porro deleniti impedit similique exercitationem sint.",
+            "image":"/images/about/about-screen-monitor.jpg"
+        },
+        {
+            "title":"Why may use Saas cashier",
+            "desc":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel architecto quidem ullam suscipit atque commodi veniam saepe nobis eius vero iure labore, voluptatibus cupiditate, quasi ratione voluptates autem laudantium. At. ",
+            "image":"/src/assets/images/customer-mobile.svg"
+        },
+        {
+            "title":"Ui design",
+            "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum at iusto nihil.",
+            "image":"/images/about/design.png"
+        },
+        {
+            "title":"web developing",
+            "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum at iusto nihil.",
+            "image":"/images/about/design.png"
+        },
+        {
+            "title":"Ai services",
+            "desc":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum at iusto nihil.",
+            "image":"/images/about/ai.png"
+        }
+    ]
+}

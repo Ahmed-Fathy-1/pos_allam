@@ -1,0 +1,96 @@
+{
+  "register": [
+    {
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "password": "password123",
+      "id": "e812"
+    },
+    {
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "password": "mypassword",
+      "id": "aaf8"
+    },
+    {
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "password": "secretpass",
+      "id": "3c3c"
+    },
+    {
+      "id": "0eb9",
+      "email": "login_2@email",
+      "password": "login_2@password"
+    },
+    {
+      "id": "6bf7",
+      "email": "E@E",
+      "password": "1111"
+    },
+    {
+      "id": "02b4",
+      "email": "E@E",
+      "password": "1111"
+    },
+    {
+      "id": "055a",
+      "email": "E@E",
+      "password": "1111"
+    },
+    {
+      "id": "8723",
+      "email": "rr@rr",
+      "password": "rrrr"
+    },
+    {
+      "id": "2350",
+      "name": "hhh",
+      "email": "h2h",
+      "password": "hhhh"
+    },
+    {
+      "id": "ae8b",
+      "name": "Ibrahim",
+      "email": "Ibrahim@Youssef",
+      "password": "RRRR"
+    }
+  ],
+  "login": [
+    {
+      "email": "bob.johnson@example.com",
+      "password": "mypassword",
+      "id": "4a52"
+    },
+    {
+      "id": "9efd",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "6dfd",
+      "email": "tt@TT",
+      "password": "TTTT"
+    },
+    {
+      "id": "073d",
+      "email": "jj@j",
+      "password": "jjjj"
+    },
+    {
+      "id": "5243",
+      "email": "ttttttttttttttt@f",
+      "password": "ttttttttttttttttttt"
+    },
+    {
+      "id": "d089",
+      "email": "fffffff@e",
+      "password": "fffffffff"
+    },
+    {
+      "id": "a879",
+      "email": "fffffffffffffffff@g",
+      "password": "fffffffffffffff"
+    }
+  ]
+}

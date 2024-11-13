@@ -1,0 +1,252 @@
+{
+  "futures": [
+    {
+      "id": 1,
+      "color": "text-white",
+      "image": "./src/assets/images/feture1.svg",
+      "title": "Esay Features",
+      "desc": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    },
+    {
+      "id": 2,
+      "color": "text-black",
+      "image": "./src/assets/images/feture2.svg",
+      "title": "Good user Experience",
+      "desc": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    },
+    {
+      "id": 2,
+      "color": "text-black",
+      "image": "./src/assets/images/feture3.svg",
+      "title": "Clen Design",
+      "desc": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    }
+  ],
+
+  "tech": [
+    {
+      "logo": "./src/assets/images/vue-logo.png",
+      "name": "Vue.js"
+    },
+    {
+      "logo": "./src/assets/images/laravel-logo.png",
+      "name": "Laravel"
+    },
+    {
+      "logo": "./src/assets/images/Bootstrap_logo.png",
+      "name": "Bootstarp"
+    },
+    {
+      "logo": "./src/assets/images/vitejs-logo.png",
+      "name": "Vite"
+    }
+  ],
+
+  "customers_needs": [
+    {
+      "image": "./src/assets/images/industry.svg",
+      "title": "Industry Standard Protocols",
+      "desc": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.Amet"
+    },
+    {
+      "image": "./src/assets/images/cloud.svg",
+      "title": "On-Premise, In Cloud",
+      "desc": "Compliance with leading organizations including SOC2, GDPR, OpenID Connect, and others."
+    },
+    {
+      "image": "./src/assets/images/certificate.svg",
+      "title": "Compliance and Certifications",
+      "desc": "Compliance with leading organizations including SOC2, GDPR, OpenID Connect, and others."
+    }
+  ],
+
+  "counter": [
+    {
+      "title": "Sart Client",
+      "number": "21"
+    },
+    {
+      "title": "Apps Download",
+      "number": "100"
+    },
+    {
+      "title": "Our Projects",
+      "number": "100"
+    }
+  ],
+
+  "packages": [
+    {
+      "name": "Freebie",
+      "desc": "Amet minim mollit non deserunt ullamco est sit aliqua dolor.",
+      "price_month": "0",
+      "price_annually": "0",
+      "details": [
+        {
+          "point": "20,000+ of PNG & SVG graphics",
+          "avilable": true
+        },
+        {
+          "point": "Access to 100 million stock images",
+          "avilable": true
+        },
+        {
+          "point": "Upload custom icons and fonts",
+          "avilable": false
+        },
+        {
+          "point": "Unlimited Sharing",
+          "avilable": false
+        },
+        {
+          "point": "Upload graphics & video in up to 4k",
+          "avilable": false
+        },
+        {
+          "point": "Unlimited Projects",
+          "avilable": false
+        },
+        {
+          "point": "Instant Access to our design system",
+          "avilable": false
+        },
+        {
+          "point": "Create teams to collaborate on designs",
+          "avilable": false
+        }
+      ]
+    },
+    {
+      "name": "Professional",
+      "desc": "Amet minim mollit non deserunt ullamco est sit aliqua dolor.",
+      "price_month": "25",
+      "price_annually": "3000",
+      "details": [
+        {
+          "point": "20,000+ of PNG & SVG graphics",
+          "avilable": true
+        },
+        {
+          "point": "Access to 100 million stock images",
+          "avilable": true
+        },
+        {
+          "point": "Upload custom icons and fonts",
+          "avilable": true
+        },
+        {
+          "point": "Unlimited Sharing",
+          "avilable": true
+        },
+        {
+          "point": "Upload graphics & video in up to 4k",
+          "avilable": true
+        },
+        {
+          "point": "Unlimited Projects",
+          "avilable": true
+        },
+        {
+          "point": "Instant Access to our design system",
+          "avilable": false
+        },
+        {
+          "point": "Create teams to collaborate on designs",
+          "avilable": false
+        }
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "desc": "Amet minim mollit non deserunt ullamco est sit aliqua dolor.",
+      "price_month": "100",
+      "price_annually": "4000",
+      "details": [
+        {
+          "point": "20,000+ of PNG & SVG graphics",
+          "avilable": true
+        },
+        {
+          "point": "Access to 100 million stock images",
+          "avilable": true
+        },
+        {
+          "point": "Upload custom icons and fonts",
+          "avilable": true
+        },
+        {
+          "point": "Unlimited Sharing",
+          "avilable": true
+        },
+        {
+          "point": "Upload graphics & video in up to 4k",
+          "avilable": true
+        },
+        {
+          "point": "Unlimited Projects",
+          "avilable": true
+        },
+        {
+          "point": "Instant Access to our design system",
+          "avilable": true
+        },
+        {
+          "point": "Create teams to collaborate on designs",
+          "avilable": true
+        }
+      ]
+    }
+  ],
+
+  "questions": [
+    [
+      {
+        "question": "What is Sass project ?",
+        "answer": "it is sass application"
+      },
+      {
+        "question": "What is Sass project ?",
+        "answer": "it is sass application"
+      },
+      {
+        "question": "What is Sass project ?",
+        "answer": "it is sass application"
+      }
+    ],
+    [
+      {
+        "question": "What is Sass project ?",
+        "answer": "it is sass application"
+      },
+      {
+        "question": "What is Sass project ?",
+        "answer": "it is sass application"
+      },
+      {
+        "question": "What is Sass project ?",
+        "answer": "it is sass application"
+      }
+    ]
+  ],
+
+  "flow": [
+    {
+      "image": "./src/assets/images/flow-1.png",
+      "title": "Download & Register",
+      "desc": "Integer vitae lacus eu magna bibendum pellentesque. In ullamcorper, lacus et consectetur pellentesque, nulla enim.",
+      "id": 1
+    },
+    {
+      "image": "./src/assets/images/flow-2.png",
+      "title": "Manage Projects",
+      "desc": "Integer vitae lacus eu magna bibendum pellentesque. In ullamcorper, lacus et consectetur pellentesque, nulla enim.",
+      "id": 2
+    },
+    {
+      "image": "./src/assets/images/flow-3.png",
+      "title": "Edite Projects",
+      "desc": "Integer vitae lacus eu magna bibendum pellentesque. In ullamcorper, lacus et consectetur pellentesque, nulla enim.",
+      "id": 3
+    }
+  ]
+}
