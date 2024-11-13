@@ -1,0 +1,1 @@
+import{_ as e,c as o,b as s,o as t}from"./index-BCy9y8-H.js";const n="/images/success.png",r={},a={class:"success"};function l(i,c){return t(),o("div",a,c[0]||(c[0]=[s("div",null,[s("img",{src:n,alt:"success"}),s("p",null,"Thank you for subscripe"),s("a",{href:"/",class:"link"},"back to home")],-1)]))}const _=e(r,[["render",l]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{a as r}from"./index-BTnv5gsp.js";const l=async o=>{let e=null,a="";localStorage.getItem("token")&&localStorage.getItem("token")!=="undifined"&&(a=localStorage.getItem("token"));try{await r.get(`${o}`,{headers:{Authorization:`Bearer ${a}`}}).then(t=>{e=t.data.data})}catch(t){console.log(t)}return e};export{l as f};
